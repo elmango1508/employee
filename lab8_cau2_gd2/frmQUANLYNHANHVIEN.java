@@ -5,7 +5,7 @@
  */
 package lab8_cau2_gd2;
 
-import lab6_cau3.*;
+import lab5_cau5_gd1_gd2.Employee.*;
 import java.util.*;
 import javax.swing.JOptionPane;
 import java.text.*;
